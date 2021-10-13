@@ -3,7 +3,7 @@ package mock
 import (
 	"context"
 
-	proto "github.com/asim/go-micro/examples/v3/helloworld/proto"
+	proto "go-micro.dev/examples/v4/helloworld/proto"
 	"go-micro.dev/v4/client"
 )
 

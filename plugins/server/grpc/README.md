@@ -1,6 +1,6 @@
 # GRPC Server
 
-The grpc server is a [micro.Server](https://pkg.go.dev/github.com/asim/go-micro/server#Server) compatible server.
+The grpc server is a [micro.Server](https://pkg.go.dev/go-micro.dev/server#Server) compatible server.
 
 ## Overview
 
@@ -14,7 +14,7 @@ Specify the server to your micro service
 ```go
 import (
         "go-micro.dev/v4"
-        "github.com/asim/go-micro/plugins/server/grpc/v3"
+        "go-micro.dev/plugins/server/grpc/v4"
 )
 
 func main() {

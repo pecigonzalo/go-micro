@@ -4,8 +4,8 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/asim/go-micro/examples/v3/filter/version"
-	proto "github.com/asim/go-micro/examples/v3/service/proto"
+	"go-micro.dev/examples/v4/filter/version"
+	proto "go-micro.dev/examples/v4/service/proto"
 	"go-micro.dev/v4"
 )
 

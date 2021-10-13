@@ -4,7 +4,7 @@ import (
 	"context"
 	"log"
 
-	pb "github.com/asim/go-micro/examples/v3/helloworld/proto"
+	pb "go-micro.dev/examples/v4/helloworld/proto"
 	"go-micro.dev/v4"
 )
 

@@ -7,7 +7,7 @@ import (
 	"net/http"
 
 	"github.com/golang/protobuf/proto"
-	hello "github.com/asim/go-micro/examples/v3/greeter/srv/proto/hello"
+	hello "go-micro.dev/examples/v4/greeter/srv/proto/hello"
 )
 
 func main() {

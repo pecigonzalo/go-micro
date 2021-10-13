@@ -19,7 +19,7 @@ micro proxy
 ### Import and Flag plugin
 
 ```
-import _ "github.com/asim/go-micro/plugins/broker/proxy"
+import _ "go-micro.dev/plugins/broker/proxy"
 ```
 
 ```

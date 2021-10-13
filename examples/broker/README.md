@@ -1,6 +1,6 @@
 # Broker
 
-The [broker](https://godoc.org/github.com/asim/go-micro/broker#Broker) is an interface for PubSub.
+The [broker](https://godoc.org/go-micro.dev/broker#Broker) is an interface for PubSub.
 
 ## Contents
 

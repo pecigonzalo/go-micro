@@ -43,5 +43,5 @@ Finally you can delete keys from the cache.
 gomu call go.micro.srv.cache Cache.Delete '{"key":"test"}'
 ```
 
-[1]: https://github.com/asim/go-micro/tree/master/cache
-[2]: https://github.com/asim/go-micro/tree/master/cmd/gomu
+[1]: https://go-micro.dev/tree/master/cache
+[2]: https://go-micro.dev/tree/master/cmd/gomu

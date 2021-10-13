@@ -12,7 +12,7 @@ import (
 	"go-micro.dev/v4/metadata"
 	"go-micro.dev/v4/registry"
 
-	example "github.com/asim/go-micro/examples/v3/server/proto/example"
+	example "go-micro.dev/examples/v4/server/proto/example"
 )
 
 func init() {

@@ -5,7 +5,7 @@ import (
 	"log"
 
 	"context"
-	proto "github.com/asim/go-micro/examples/v3/service/proto"
+	proto "go-micro.dev/examples/v4/service/proto"
 	"go-micro.dev/v4"
 	"go-micro.dev/v4/server"
 )

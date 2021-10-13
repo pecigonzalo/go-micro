@@ -5,7 +5,7 @@ import (
 	"time"
 
 	"context"
-	hello "github.com/asim/go-micro/examples/v3/greeter/srv/proto/hello"
+	hello "go-micro.dev/examples/v4/greeter/srv/proto/hello"
 	"go-micro.dev/v4"
 	"go-micro.dev/v4/transport"
 )
